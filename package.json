@@ -1,5 +1,5 @@
 {
-  "name": "accelerometer-context",
+  "name": "react-accelerometer-context",
   "version": "1.0.0",
   "description": "React context provider for device accelerometer",
   "scripts": {
